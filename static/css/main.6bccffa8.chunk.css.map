@@ -1,0 +1,1 @@
+{"version":3,"sources":["NameList.css"],"names":[],"mappings":"AAAA,wBACE,qBAAsB,CACtB,WACF","file":"main.6bccffa8.chunk.css","sourcesContent":[".delete, .edit, .position {\n  background-color: #fff;\n  border: none;\n}\n"]}
